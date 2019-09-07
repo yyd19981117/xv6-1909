@@ -28,7 +28,7 @@
 xv6加入用户应用程序：https://blog.csdn.net/yyd19981117/article/details/95199634  
 xv6加入系统调用：https://blog.csdn.net/yyd19981117/article/details/95200267
 
-## Hunan University 2018-2019 Summer semester —— Operating System Course project (2019.09)  
+## Hunan University 2018-2019 Summer semester —— Operating System Course project (September 2019)  
 
 Author: College of Computer Science and Electronic Engineering (CSEE), Hunan University, Hunan, China  
 Yudong Yan (uploader), Weilin Zhang, Zhijian Zhang, Xuanwei Liu, Mo Zhou  
