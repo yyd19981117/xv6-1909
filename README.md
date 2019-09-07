@@ -54,5 +54,5 @@ Yudong Yan (uploader), Weilin Zhang, Zhijian Zhang, Xuanwei Liu, Mo Zhou
 
 ### Related work:
 
-Add user application to xv6: https://blog.csdn.net/yyd19981117/article/details/95199634  
+Add user applications to xv6: https://blog.csdn.net/yyd19981117/article/details/95199634  
 Add system calls to xv6: https://blog.csdn.net/yyd19981117/article/details/95200267
