@@ -23,6 +23,11 @@
 （1）暂时无法说明与分析：当存在多核心时，进程具体在哪个CPU上运行；  
 （2）暂无混合类型测试程序。  
 
+### 相关教程：
+
+xv6加入用户应用程序：https://blog.csdn.net/yyd19981117/article/details/95199634  
+xv6加入系统调用：https://blog.csdn.net/yyd19981117/article/details/95200267
+
 ## Hunan University 2018-2019 Summer semester —— Operating System Course project (2019.09)  
 
 Author: College of Computer Science and Electronic Engineering (CSEE), Hunan University, Hunan, China  
@@ -46,3 +51,8 @@ Yudong Yan (uploader), Weilin Zhang, Zhijian Zhang, Xuanwei Liu, Mo Zhou
 
 (1) Unable to explain and analyze: When there are multiple cores, which CPU is the processes exactly running on;  
 (2) No mixed type test program.  
+
+### Related work:
+
+Add user application to xv6: https://blog.csdn.net/yyd19981117/article/details/95199634  
+Add system calls to xv6: https://blog.csdn.net/yyd19981117/article/details/95200267
